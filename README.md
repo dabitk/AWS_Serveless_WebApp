@@ -11,4 +11,7 @@ AWS 홈페이지의 자습서를 따라하며 구현한 AWS 서버리스 웹 애
 4. 요청에 대한 정보를 저장하는 DB인 Amazon DynamoDB
 5. 사용자 인증 및 관리를 담당하는 Amazon Cognito
 
+![alt text](https://github.com/dabitk/AWS_Serveless_WebApp/blob/master/projectOverview.JPG "app")
+
+
 ![alt text](https://github.com/dabitk/AWS_Serveless_WebApp/blob/master/serverlessApp.gif "app")
